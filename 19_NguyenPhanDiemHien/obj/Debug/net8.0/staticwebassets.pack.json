@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\19_NguyenPhanDiemHien.bundle.scp.css",
+      "PackagePath": "staticwebassets\\19_NguyenPhanDiemHien.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\css\\bootstrap-responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\css\\bootstrap-responsive.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-responsive.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\css\\font-awesome-ie7.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome-ie7.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\css\\font-awesome-ie7.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome-ie7.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\font\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\bootstrap.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\bootstrap.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\extras.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\extras.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\font-awesome-ie7.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\font-awesome-ie7.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_extras.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\font-awesome-ie7.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\font-awesome-ie7.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\ico\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\ico\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\a.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\ax.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ax.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\b.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\bootstrap-ecommerce-templates.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-ecommerce-templates.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\bootstrap-ring.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-ring.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\bootstrap-template.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-template.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\bootstrap-templates.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-templates.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\bootstrap_free-ecommerce.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap_free-ecommerce.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\bootstrappage_shop.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrappage_shop.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\c.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\carousel1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\carousel3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\disc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\disc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\e.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\f.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\g.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\h.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\i.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\j.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\logo-bootstrap-shoping-cart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-bootstrap-shoping-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\maestro.png",
+      "PackagePath": "staticwebassets\\assets\\img\\maestro.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\mc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\new.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\paypal.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\paypal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\pp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pp.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\s.png",
+      "PackagePath": "staticwebassets\\assets\\img\\s.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\shop-cart.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-cart.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\shopping-cart-template.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\shopping-cart-template.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\img\\white_leather.png",
+      "PackagePath": "staticwebassets\\assets\\img\\white_leather.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\js\\jquery.easing-1.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing-1.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\js\\jquery.scrollTo-1.4.3.1-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollTo-1.4.3.1-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\19_NguyenPhanDiemHien\\19_NguyenPhanDiemHien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.19_NguyenPhanDiemHien.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.19_NguyenPhanDiemHien.props",
+      "PackagePath": "build\\19_NguyenPhanDiemHien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.19_NguyenPhanDiemHien.props",
+      "PackagePath": "buildMultiTargeting\\19_NguyenPhanDiemHien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.19_NguyenPhanDiemHien.props",
+      "PackagePath": "buildTransitive\\19_NguyenPhanDiemHien.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
